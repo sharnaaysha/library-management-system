@@ -1,4 +1,4 @@
-#library management system in PHP and mysqli
+library management system in PHP and mysqli
 
 user/student
 
